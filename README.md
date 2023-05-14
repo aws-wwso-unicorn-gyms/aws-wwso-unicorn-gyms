@@ -1,21 +1,21 @@
 # aws-wwso-unicorn-gyms
 
 ### Hi there 👋
-[![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=abraham-musa&theme=dark_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=aws-wwso-unicorn-gyms&theme=dark_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abraham-musa&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aws-wwso-unicorn-gyms&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abraham-musa)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aws-wwso-unicorn-gyms)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abraham-musa&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aws-wwso-unicorn-gyms&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 <!--
-**abraham-musa/abraham-musa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aws-wwso-unicorn-gyms/aws-wwso-unicorn-gyms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
